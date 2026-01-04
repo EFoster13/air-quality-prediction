@@ -1,0 +1,15 @@
+.env
+*.db
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*.json
+data/raw/*.csv
+data/processed/*.csv
+models/*.pkl
+models/*.h5
+models/*.pth
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
